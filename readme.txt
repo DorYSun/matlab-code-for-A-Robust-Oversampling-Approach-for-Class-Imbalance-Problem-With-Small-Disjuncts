@@ -1,6 +1,6 @@
 the paper mame: A Robust Oversampling Approach for Class Imbalance Problem with Small Disjuncts
 
-please refer: 
+please cite: 
 Y. Sun, L. Cai, B. Liao, W. Zhu and J. Xu, "A Robust Oversampling Approach for Class Imbalance Problem With Small Disjuncts," in IEEE Transactions on Knowledge and Data Engineering, vol. 35 (6): 5550-5562, 2023.
 
 The matlab code includes the following files:
